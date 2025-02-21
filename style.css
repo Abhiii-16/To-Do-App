@@ -24,7 +24,7 @@ body {
   background: radial-gradient(
     2224px at 10.6% 8.8%,
     rgb(255, 255, 255) 0%,
-    rgb(153, 202, 251) 100.2%
+    rgb(223, 153, 251) 100.2%
   );
 }
 
@@ -57,7 +57,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #73c0fc;
+  background-color: rgb(223, 153, 251) 100.2%;
   transition: 0.4s;
   border-radius: 30px;
 }
