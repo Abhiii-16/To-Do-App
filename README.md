@@ -1,5 +1,5 @@
-![To-Do App Darkmode](images/WhatsApp Image 2025-02-21 at 22.20.20_e6ce5bb5.jpg)
-![To-Do App Lightmode](images/WhatsApp Image 2025-02-21 at 22.21.19_c0281184.jpg)
+![To-Do App Darkmode](images/darkmode.jpg)
+![To-Do App Lightmode](images/lightmode.jpg)
 
 # To-Do Application
 
