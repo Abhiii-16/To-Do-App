@@ -18,6 +18,7 @@ const priorityColors = {
   Completed: "task-completed",
 };
 
+
 const priorityValues = {
   High: 3,
   Medium: 2,
