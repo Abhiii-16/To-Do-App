@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }
   }
 
+  
   mybutton.addEventListener("click", function() {
     // Check for browser support
     if ("scrollBehavior" in document.documentElement.style) {
