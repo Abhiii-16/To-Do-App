@@ -15,6 +15,7 @@ body:
       description: Please add screenshots if applicable
     validations:
       required: false
+
   - type: textarea
     attributes: 
       label: Any additional information? 
